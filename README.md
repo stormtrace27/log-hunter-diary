@@ -34,5 +34,7 @@ I don't copy platform content or post answers to challenges. I describe the meth
 
 ## Connect
 
+## Connect
+
 - LinkedIn: [Dhrity Patel](https://www.linkedin.com/in/dhrity-patel-8b56b0341)
-- GitHub: [dhrity494](https://github.com/dhrity494)
+- GitHub: [stormtrace27](https://github.com/stormtrace27)
